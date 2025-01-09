@@ -141,5 +141,5 @@ int main()
 	    }
 	}
     } while (argc == 0 || strcmp("exit",argv[0]) != 0); 
-  printf("A bientot !\n");
+  printf("Finish !\n");
 }
